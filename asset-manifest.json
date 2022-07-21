@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valentinaabakumova/goit-react-hw-01-components/static/css/main.21df578e.css",
+    "main.js": "/valentinaabakumova/goit-react-hw-01-components/static/js/main.f65f3e12.js",
+    "index.html": "/valentinaabakumova/goit-react-hw-01-components/index.html",
+    "main.21df578e.css.map": "/valentinaabakumova/goit-react-hw-01-components/static/css/main.21df578e.css.map",
+    "main.f65f3e12.js.map": "/valentinaabakumova/goit-react-hw-01-components/static/js/main.f65f3e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21df578e.css",
+    "static/js/main.f65f3e12.js"
+  ]
+}
