@@ -2,7 +2,6 @@ import Transaction from './Transaction';
 import PropTypes from 'prop-types';
 
 function TransactionList({ items }) {
-  console.log(items);
   return (
     <div>
       <h2 class="title">Transaction</h2>

@@ -2,7 +2,6 @@ import User from './User';
 import PropTypes from 'prop-types';
 
 function UserList({ items }) {
-  console.log(items);
   return (
     <div>
       <h2 class="title"> Friends</h2>

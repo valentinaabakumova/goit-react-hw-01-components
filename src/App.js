@@ -1,11 +1,11 @@
 import Section from './components/Section';
-import users from './users.json';
+import users from './data/users.json';
 import UserList from './components/UserList';
-import data from './data.json';
+import data from './data/data.json';
 import StatisticsList from './components/StatisticsList';
-import friends from './friends.json';
+import friends from './data/friends.json';
 import FriendsList from './components/FriendsList';
-import transaction from './transaction.json';
+import transaction from './data/transaction.json';
 import TransactionList from './components/TransactionList';
 
 export default function App() {
