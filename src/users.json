@@ -3,7 +3,7 @@
   "username": "Jacques Gluke",
   "tag": "jgluke",
   "location": "Ocho Rios, Jamaica",
-  "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+  "avatar": "https://kartinkin.net/uploads/posts/2022-03/1646322729_4-kartinkin-net-p-derzkie-kartinki-na-avu-4.jpg",
   "stats": {
     "followers": 5603,
     "views": 4827,
@@ -14,7 +14,7 @@
   "username": "Valentina Jojo",
   "tag": "jinn888",
   "location": "Porodro, Lapas",
-  "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+  "avatar": "http://giffun.ru/wp-content/uploads/2019/04/Krasivye_avatarki_dlya_kartinki_35_foto_1_24094423.jpg",
   "stats": {
     "followers": 7707,
     "views": 8888,
@@ -25,11 +25,22 @@
   "username": "Sherlock Holmes",
   "tag": "yoursocio",
   "location": "London, GB",
-  "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+  "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-2AdphAYPaWT5lpmfAkCfeqdjqip0vZNF7JUsJu84bkYZ6cd39ELg4StIei3pSvnfMc&usqp=CAU",
   "stats": {
     "followers": 7007,
     "views": 6789,
     "likes": 9001
+  }
+},
+{
+  "username": "Peter Parker",
+  "tag": "spidy",
+  "location": "New York, USA",
+  "avatar": "https://mixmag.io/wp-content/pics/48740/image093-29-720x720.jpg",
+  "stats": {
+    "followers": 938,
+    "views": 634,
+    "likes": 401
   }
 }
 ]

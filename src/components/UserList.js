@@ -8,7 +8,7 @@ function UserList({ items }) {
       <h2 class="title"> Friends</h2>
       <ul class="list">
         {items?.map(item => (
-          <li class="item" key={item.id}>
+          <li class="item profile-item" key={item.id}>
             <User
               username={item.username}
               tag={item.tag}
