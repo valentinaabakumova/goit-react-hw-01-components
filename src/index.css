@@ -147,7 +147,8 @@ tr {
 
 .list-stat {
   border: 1px solid rgb(217, 216, 216);
-  width: 340px;
+  width: 310px;
+  margin-left: 20px;
 }
 
 .percentage {

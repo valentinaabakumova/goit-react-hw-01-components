@@ -15,8 +15,8 @@ export default function App() {
         <UserList items={users} />
       </Section>
 
-      <Section title="Statictics">
-        <StatisticsList items={data} />
+      <Section>
+        <StatisticsList title="Upload stats" items={data} />
       </Section>
 
       <Section title="Friends">
